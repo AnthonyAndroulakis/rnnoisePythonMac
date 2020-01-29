@@ -18,4 +18,6 @@ python wrapper for rnnoise (just automates some of the pre and post processing)
 7. `./configure`
 8. `make`
 9. `cd ../`
-10. `python rnnoise.py input.wav` #output will be in ./rnnoiseoutput folder, with the same name as the input file
+
+# Run it (after Setup steps)
+`python rnnoise.py input.wav` #output will be in ./rnnoiseoutput folder, with the same name as the input file
