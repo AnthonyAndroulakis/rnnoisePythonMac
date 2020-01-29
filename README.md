@@ -20,6 +20,6 @@ python wrapper for rnnoise (just automates some of the pre and post processing)
 8. `make`
 9. `cd ../`
 
-# Run it (after Setup steps)
+# Run it (after Setup)
 ***** input WAVE file must be in the ./rnnoisePythonMac directory!       
 `python rnnoise.py input.wav` #output will be in ./rnnoiseoutput folder, with the same name as the input file
