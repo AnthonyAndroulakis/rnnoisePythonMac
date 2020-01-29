@@ -5,8 +5,8 @@ python wrapper for rnnoise (just automates some of the pre and post processing)
 # Requirements
 - WAVE files (these will be the input files, ideal (but not required) sampling rate = 48000; output files will also be in WAVE format)
 - Mac OS
-- ffmpeg
-- sox
+- ffmpeg (brew install ffmpeg)
+- sox (brew install sox)
 - python(2 or 3)
 
 # Setup (shortcut: first get ffmpeg, sox, and python; then git clone rnnoisePythonMac and cd into it; finally you can run setup.py to cover steps 4-9)
