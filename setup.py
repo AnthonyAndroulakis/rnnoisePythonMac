@@ -1,7 +1,5 @@
 import os
 
-os.system("git clone https://github.com/AnthonyAndroulakis/rnnoisePythonMac.git")
-os.chdir("rnnoisePythonMac")
 os.system("git clone https://github.com/xiph/rnnoise.git")
 os.chdir("rnnoise")
 os.system("./autogen.sh")
