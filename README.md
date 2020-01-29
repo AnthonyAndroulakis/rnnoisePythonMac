@@ -9,7 +9,7 @@ python wrapper for rnnoise (just automates some of the pre and post processing)
 - sox
 - python(2 or 3)
 
-# Setup
+# Setup (first get ffmpeg, sox, and python; then you can run setup.py to cover steps 2-9)
 1. on a Mac OS, make sure you have ffmpeg, sox, and python(2 or 3)
 2. `git clone https://github.com/AnthonyAndroulakis/rnnoisePythonMac.git`
 3. `cd rnnoisePythonMac`
