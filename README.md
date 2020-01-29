@@ -3,7 +3,7 @@ python wrapper for rnnoise (just automates some of the pre and post processing)
 (https://github.com/xiph/rnnoise)
 
 # Requirements
-- WAVE files (these will be the input files, ideal sampling rate = 48000; output files will also be in WAVE format)
+- WAVE files (these will be the input files, ideal (but not required) sampling rate = 48000; output files will also be in WAVE format)
 - Mac OS
 - ffmpeg
 - sox
